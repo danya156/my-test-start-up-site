@@ -1,0 +1,317 @@
+.menu{
+    text-align: center;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    opacity:0.9 ;
+
+   
+}
+.menu a{
+    
+    text-decoration: none;
+    color:black;
+    width: 200px;
+    display:inline-block;
+    padding:8px;
+}
+.menu a:hover{
+    background-color: #ccc;
+}
+header{
+     background-image:url(images/polygons.png);
+     /* height: 500px; */
+     padding:200px 0;
+     background-repeat: no-repeat;
+     background-position:top center;
+     text-align:center;
+     /* margin-left:315px  */
+     background-attachment: fixed;
+    
+}
+ .p2{
+   
+
+    
+    font-size: 30px;
+    font-weight: 600;
+    /* width: 950px; */
+    /* text-align: center; */
+    /* margin-top: 115px; */
+    color: white;
+    /* margin-left: 110px; */
+}
+    
+    
+
+.p1{
+    
+    font-size: 15px;
+    font-weight: 600;
+    /* width: 950px; */
+    text-align: center;
+    /* margin-top: 30px; */
+    color: white;
+    /* margin-left: 110px; */
+    padding-top: 15px;
+}
+    
+    
+
+
+header button{
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    border:0;
+    display: block;
+    margin:40px auto;
+    outline: none;
+
+
+}
+header button:hover{
+    background-color:black;
+    color:white;
+} h2{
+    font-weight: bold;
+    font-size:25px;
+    text-align:center;
+    margin-top:70px;
+    margin-bottom: 29px;
+
+}
+.about-company>div{
+   max-width: 1200px;
+    margin:0 auto;
+    
+}
+.text{
+    width: 700px;
+    display: inline-block;
+}
+.about-company img{
+    width: 400px;
+}
+.text p{
+    margin-bottom: 20px;
+}
+.member{
+    display:inline-block;
+    text-align: center;
+    min-width: 20%;
+    margin:0 15px 0 15px;
+    padding: 10px;
+    box-shadow:1px 1px 5px;
+    text-align:left;
+
+}
+.member img{
+    width: 100%;
+}
+.team{
+    text-align: center;
+    padding-bottom: 20px;
+}
+ .member h3{
+     font-size:20px;
+     padding:10px 0px 20px 0px;
+     
+     
+
+}
+.under-head{
+    margin-bottom: 35px;
+    
+}
+.member p{
+    margin-top:20px;
+    
+     
+}
+.spanan{
+    margin-right:288px ;
+    color:grey;
+}
+.member button{
+    height: 40px;
+    width: 90%;
+    background-color:#055B73;
+    border-radius: 8px;
+    color:white;
+    
+    outline:none;
+    border:0px;
+    margin:25px auto;
+    display:block;
+    
+
+}
+.member button:hover{
+    background-color:black;
+    color:white;
+}
+.member button:active{
+    background-color:grey;
+    
+    
+    
+    
+}
+
+.tarif-card{
+    width: 400px;
+    background-color:white;
+    display: inline-block;
+    margin:0px 15px;
+    vertical-align: middle;
+    margin-bottom: 30px;
+    
+
+}
+.tarif{
+    background-color:grey;
+    text-align: center;
+}
+#pro{
+    
+    width: 400px;
+    
+}
+.tarif h2{
+    display: inline-block;
+    
+}
+.color{
+    background-color: black;
+    width: 400px;
+    height: 80px;
+    color:white;
+    padding-top:40px;
+    font-weight: 100;
+    font-size: 25px;
+    
+}
+
+    
+
+.line{
+    width: 400px;
+    height: 1px;
+    background-color: #e0e0e0;
+    
+}
+.spans{
+    padding-bottom: 20px;
+    display:inline-block;
+    padding-top:20px;
+}
+.price{
+    padding-top:50px;
+    display: inline-block;
+    font-size:25px;
+    font-weight: 600;
+}
+.grey{
+    display: block;
+    padding-top:20px;
+    color: gray;
+    margin-bottom: 25px;
+}
+.tarif-card button{
+    height: 40px;
+    background-color:black;
+    color:white;
+    width: 100px;
+    border-radius: 10px;
+    outline: none;
+    border:0;
+    margin-top:8px;
+}
+.button{
+    background-color:#e0e0e0;
+    height: 60px;
+    width: 400px;
+    border-top: gray;
+}
+#pro .color {
+    height: 110px;
+    background-color:#286173;
+    
+
+
+}
+.tarif .under-head, .tarif h2{
+    color:white;
+}
+.color p{
+    margin-top:20px;
+    
+}
+/* section */
+.form .under-head{
+    text-align: center;
+}
+.moscow{
+    background-image: url(images/address.png);
+
+}
+.phone{
+    background-image: url(images/phone.png);
+
+}
+.mail{
+    background-image: url(images/mail.png);
+    background-repeat: ;
+    
+
+}
+.contact{
+    background-repeat: no-repeat;
+    background-size: 15px;
+    margin-bottom: 10px;
+    padding-left: 25px;
+    margin-left: 70px;
+}
+.form{
+    background-color:#f1f1f1;
+    padding-top: 50px;
+}
+input{
+    display: block;
+    width: 92%;
+    margin:0 auto;
+    height:30px ;
+    margin-bottom: 15px;
+    border: none;
+    outline:none;
+}
+.send{
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+    height: 35px;
+    border-radius: 11px;
+    background-color: black;
+    color: white;
+    border:none;
+    outline:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
